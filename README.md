@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kashish-shukla18&layout=pie)](https://github.com/kashish-shukla18/github-readme-stats)
 
 <a href="https://visitcount.itsvg.in">
 <img src="https://visitcount.itsvg.in/api?id=kashish-shukla18&label=Profile%20Views&color=1&icon=7&pretty=false" />
