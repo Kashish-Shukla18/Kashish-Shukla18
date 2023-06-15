@@ -1,21 +1,41 @@
-### Hi there 👋, I'm Kashish Shukla
-![Kashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=kashish-shukla18&show_icons=true&theme=transparent)
-<!--
-**Kashish-Shukla18/Kashish-Shukla18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hey coder's ,Kashish Shukla  here<img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="50px" width="50px"> </h1>
 
-Here are some ideas to get you started:
+<h3 align="left">A Web Developer and Programmer.</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kashish-shukla18&layout=pie)](https://github.com/kashish-shukla18/github-readme-stats)
 
-<a href="https://visitcount.itsvg.in">
-<img src="https://visitcount.itsvg.in/api?id=kashish-shukla18&label=Profile%20Views&color=1&icon=7&pretty=false" />
-</a>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=kashish-shukla18&label=Profile%20views&color=0e75b6&style=flat" alt="kashish-shukla18" /> </p>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kashish-shukla18&theme=darkhub&margin-w=5&no-bg=True&no-frame=False" alt="kashish-shukla18" /></a> </p>
+
+ - 🔭 I’m currently working on a Platform Project *LetsDosomething*
+
+- 🌱 I’m currently learning  and *javascript*
+
+- 👨‍💻 All of my projects are available at [github.com/kashish-shukla18/](github.com/kashish-shukla18)
+
+- 📫 How to reach *kashish.shukla.8076@gmail.com*
+ 
+- Ask me about *Java, Python, Php, HTML, CSS*
+ <br>
+<br>
+</p> 
+
+<!-- support section end here  -->
+
+<hr>
+<h3 align="left"> Some of my stats 📊:</h3>
+
+
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kashish-shukla18&langs_count=8&show_icons=true&locale=en&theme=midnight-purple" alt="kashish-shukla18" /></p>
+
+<p>&nbsp;&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kashish-shukla18&show_icons=true&theme=midnight-purple" alt="kashish-shukla18" /></p>
+
+<p>&nbsp;&nbsp;&nbsp; <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kashish-shukla18&theme=midnight-purple" alt="kashish-shukla18" /></p>
+
+
+<p> &nbsp;&nbsp;&nbsp;<img scr="https://github-readme-stats.vercel.app/api/pin/?username=kashish-shukla18&repo=https://github.com/kashish-shukla18/myportfolio"> </p> 
+ 
+
+ 
+
+ 
