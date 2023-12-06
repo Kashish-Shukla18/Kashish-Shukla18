@@ -25,17 +25,12 @@
 <hr>
 <h3 align="left"> Some of my stats 📊:</h3>
 
+![](https://github-readme-stats.vercel.app/api?username=kashish-shukla18&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kashish-shukla18&langs_count=8&show_icons=true&locale=en&theme=midnight-purple" alt="kashish-shukla18" /></p>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kashish-shukla18&theme=dark&hide_border=false&theme=midnight-purple)<br/>
+ <br>
+<br>
 
-<p>&nbsp;&nbsp;&nbsp; <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kashish-shukla18&theme=midnight-purple" alt="kashish-shukla18" /></p>
 
-
-<p> &nbsp;&nbsp;&nbsp;<img scr="https://github-readme-stats.vercel.app/api/pin/?username=kashish-shukla18&repo=https://github.com/kashish-shukla18/myportfolio"> </p> 
- 
-
- 
-
- 
