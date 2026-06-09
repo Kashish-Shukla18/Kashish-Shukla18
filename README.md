@@ -45,48 +45,6 @@ Full Stack Developer with **2+ years** building production-grade systems at **II
 
 ---
 
-## Featured Projects
-
-### ⚡ PMU Dashboard *(Jan 2026 – Present)*
-Real-time Phasor Measurement Unit monitoring system for power grid infrastructure.
-- Apache Kafka pipeline handling **10,000+ messages/second**
-- React dashboard with live trend analysis across **50+ devices simultaneously**
-- Docker Compose deployment reducing setup time by 60%
-
----
-
-### 🔌 Energy Management System *(Dec 2024 – Present)*
-Industrial-grade EMS dashboard at IIT Kanpur monitoring 15+ electrical substations.
-- Stack: Django · PostgreSQL · Redis · Spring Boot · REST APIs
-- 40% faster SCADA data retrieval via indexing & caching
-- JWT + RBAC for 50+ multi-department users
-
----
-
-### 🛡️ Breaker Guard *(Jul – Dec 2025)*
-Operations dashboard for power utility workflow management.
-- IoT device monitoring: live status, offline detection, location visualisation
-- Role-based access for 15+ user types
-- Slashed outage response times by **40%**
-
----
-
-### 🌱 GREET Research Platform *(Jan – Jun 2025)*
-Comprehensive research platform with public pages, surveys, and admin tooling.
-- 15+ public pages, EV survey system with 30+ questions
-- Role-based admin dashboard with scheduled email workflows
-- 25% reduction in data entry errors via real-time validation
-
----
-
-### 🚀 Incubation Management Portal *(Jun – Dec 2024)*
-Document and approval workflow system at SIIC IIT Kanpur.
-- Processed **500+ monthly submissions**
-- Cut manual processing time by 40%
-- SMTP notifications: 200+ weekly alerts, 80% response rate
-
----
-
 ## GitHub Stats
 
 <p align="center">
